@@ -2,7 +2,7 @@
 
 🚀 About Me  
 🎓 Third-Year Computer Science Student at Dalhousie University.  
-🌱 Passionate about Backend Development, Data Engineering, and System Design.  
+🌱 Passionate about Software Development, Data Engineering, and System Design.  
 🔭 Currently building full-stack projects using React and Node.js.
 
 🛠️ Skills & Technologies  
