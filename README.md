@@ -1,15 +1,9 @@
-## Hi there 👋
-
-🚀 About Me  
-🎓 Third-Year Computer Science Student at Dalhousie University.  
-🌱 Passionate about Software Development.  
-🔭 Currently building full-stack projects using React and Node.js.
-
-🛠️ Skills & Technologies  
-**Languages:** Java • Python • JavaScript • SQL  
-**Web Dev:** ReactJS • HTML • CSS • Node.js  
-**Data Tools:** Pandas • Power BI • PostgreSQL • Excel  
-**Other Tools:** Git/GitHub • VS Code • Figma • Firebase
+## Hi there, I'm Sarvesh 👋
+🚀 About Me
+🎓 Third-year Computer Science (Co-op) student at Dalhousie University, Halifax.
+🤖 Passionate about building self-hosted AI systems, document intelligence pipelines, and open-source local model deployment.
+🔭 Currently building RAG pipelines, document ingestion systems, and local inference workflows using open-source LLMs.
+💼 One co-op term completed — experience in Python pipelines, data validation, and REST API integration.
 
 
 <!--
