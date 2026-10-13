@@ -1,9 +1,20 @@
-## Hi there, I'm Sarvesh 👋
-🚀 About Me
+# Hi, I'm Sarvesh 👋
 
+### Computer Science Co-op Student @ Dalhousie University
 
-A computer science student at Dalhousie University trying to build web and mobile applications using AI.
+I'm a computer science student who enjoys building web and mobile
+applications and exploring how AI can be used to solve real-world problems.
 
+I've worked with Java, JavaScript, React, Node.js, SQL, and MongoDB
+through my projects and professional experience. I'm always looking to
+learn new technologies, improve my software engineering skills, and
+build applications that are useful to people.
+
+🌱 Currently exploring AI-powered applications and full-stack development.
+
+💻 Check out my repositories to see what I've been building!
+
+🔗 LinkedIn: https://www.linkedin.com/in/sarvesh-narayanan-527175290/?isSelfProfile=true
 
 <!--
 **Sarvesh-appdev/Sarvesh-appdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
