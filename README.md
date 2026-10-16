@@ -12,8 +12,6 @@ build applications that are useful to people.
 
 🌱 Currently exploring AI-powered applications and full-stack development.
 
-💻 Check out my repositories to see what I've been building!
-
 🔗 LinkedIn: https://www.linkedin.com/in/sarvesh-narayanan-527175290/?isSelfProfile=true
 
 <!--
