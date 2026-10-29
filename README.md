@@ -13,6 +13,7 @@ build applications that are useful to people.
 🌱 Currently exploring AI-powered applications and full-stack development.
 
 🔗 LinkedIn: https://www.linkedin.com/in/sarvesh-narayanan-527175290/?isSelfProfile=true
+🔗 Portfolio: https://sarvesh-appdev.github.io/
 
 <!--
 **Sarvesh-appdev/Sarvesh-appdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
